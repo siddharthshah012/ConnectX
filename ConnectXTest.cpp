@@ -20,7 +20,7 @@ TEST(ConnectXTest, sanityCheck)
 	ASSERT_TRUE(true);
 }
 
-TEST (ConnectXTest, toggleTurnCheck)
+/*TEST (ConnectXTest, toggleTurnCheck)
 {
 	ConnectX connectTowin;
 	int t = 0;
@@ -50,7 +50,7 @@ TEST(ConnectXTest, inBoundsCheck)
 
 	ASSERT_EQ(0,connectTowin.at(3,4));
 
-}
+}*/
 
 TEST(ConnectXTest, outBoundsLeftCheck)
 {
