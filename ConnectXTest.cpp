@@ -93,6 +93,7 @@ TEST(ConnectXTest, outOfBoundCheck)
 	ASSERT_EQ(-1, connectTowin.at(-2,9));
 }
 
+/*
 TEST(ConnectXTest, showBoardCheck)
 {
 	ConnectX connectTowin;
@@ -115,3 +116,4 @@ TEST(ConnectXTest, showBoardCheck)
 	connectTowin.showBoard();
 	ASSERT_EQ(t, connectTowin.at(4,4));
 }
+*/
