@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/siddharthshah012/ConnectX.svg?branch=master)](https://travis-ci.org/siddharthshah012/ConnectX)
+
 Name :- Siddharth Rajendra Shah
 
 List of bugs :-
